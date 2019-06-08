@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to right, #91E2FF, #00329F);
+    font-size: 26px;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.banner{
+    background-image: url(banner.png);
+    background-size: cover;
+    box-shadow: 4px 4px 8px white;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    height: 600px;
+    background-position-y: 85%;
+}
+
+#banner2{
+    background-color: aliceblue;
+}
+
+
+.btn-danger
+{
+  color: white;
+  font-size: 40px;
+}
+
+.btn-danger:hover
+{
+  color: blue ;
+}
