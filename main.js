@@ -1,9 +1,7 @@
 var content1 = [
     "Venez copier les trades de notre tradeur. <br\> Mais aussi en apprendre plus sur le trading et la technologie lié aux cryptomonnaies !",
-    "Bla bla blablabalabalbalabalbla,",
-    "erihtvzritvhoerhtzt",
-    "eoritzheroitvoertvzet",
-    "eoitcherzoitzoti"
+    "Vous serez aussi guidé sur la gestion de votre portefeuille grâce à des analyses régulière du marché",
+    "Venez profiter d'une communauté active qui repondra à toutes vos questions",
 ]
 
 var left_chevron = document.querySelector(".fa-chevron-left");
