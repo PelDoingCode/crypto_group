@@ -1,0 +1,31 @@
+
+
+.banner{
+
+    background-size: cover;
+    box-shadow: 4px 4px 8px white;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    height: 100vh;
+    background-position-y: 85%;
+
+    background-image: linear-gradient(rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(banner.png);
+
+}
+
+.banner p {
+  font-family: 'Montserrat', sans-serif;
+
+  margin: 40px;
+  color: orange ;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.banner button {
+text-align: : left;
+color: orange;
+font-family: 'Montserrat', sans-serif;
+font-weight: lighter;
+
+}

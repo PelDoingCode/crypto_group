@@ -1,0 +1,38 @@
+
+
+
+/* --- Components design --- */
+@import url("components/banner.css");
+
+@import url("components/pictures_center.css");
+
+@import url("components/footer.css");
+
+body{
+    background: linear-gradient(to right, #91E2FF, #00329F);
+    text-align: center;
+
+    font-size: 26px;
+    font-family: 'Roboto Mono', monospace;
+
+
+}
+
+
+
+#banner2{
+    background-color: aliceblue;
+}
+
+
+.btn-danger
+{
+  color: white;
+  font-size: 40px;
+}
+
+.btn-danger:hover
+{
+  color: blue ;
+}
+
